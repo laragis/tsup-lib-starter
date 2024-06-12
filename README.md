@@ -6,3 +6,4 @@
 - https://github.com/mysteryven/ts-react-lib-starter-monorepo
 - https://github.com/egoist/ts-lib-starter
 - https://github.com/TanStack/query
+- https://github.com/orabazu/tsup-library-template
