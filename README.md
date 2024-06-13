@@ -7,3 +7,4 @@
 - https://github.com/egoist/ts-lib-starter
 - https://github.com/TanStack/query
 - https://github.com/orabazu/tsup-library-template
+- https://github.com/Adchitects/configs/blob/main/packages/tsup
